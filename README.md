@@ -4,7 +4,7 @@
 
 ## 🙋 About Me
 
-- 🔎 I am currently a **1ᵉ year Bachelor student in Web Development**. Being very **creative** and **optimistic**, I want to learn as much as possible to be able to **develop** my **knowledge**.
+- 🔎 I am currently a **1ᵉ year Bachelor student in Web Development**. Being very **creative** and **optimistic**, I want to store as much as possible to be able to develop my **knowledge** and **learn more**.
 
 - 🌱 I’m currently learning **Python**.
 
