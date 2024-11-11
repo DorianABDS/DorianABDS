@@ -1,5 +1,5 @@
 <div class="hello" align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20World%20👋&reversal=false&textBg=false&section=header&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hello%20World%20👋&reversal=true&textBg=false&section=header&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling" alt="Typing SVG" />
 </div>
 
 ## 🙋 About Me
@@ -30,7 +30,7 @@
 
 ### Tools :
 <div align="ceter">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,ps,trello" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,github,git,ps,trello" /><br>
 </div>
 
 <br>
