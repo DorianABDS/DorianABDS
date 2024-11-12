@@ -30,7 +30,7 @@
 
 ### Tools :
 <div align="ceter">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github,git,ps,trello" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,markdown,github,git,ps,trello" /><br>
 </div>
 
 <br>
