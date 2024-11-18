@@ -38,7 +38,7 @@
 
 <p align="center">
 
-<img title="🔥 streak-stats" alt="DorianABDS's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DorianABDS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+![Commit streak](https://github-readme-streak-stats.herokuapp.com/?user=DorianABDS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 
 </p>
 <a href="https://github.com/DorianABDS/github-readme-stats"><img alt="DorianABDS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DorianABDS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
