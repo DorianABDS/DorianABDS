@@ -16,16 +16,11 @@
 </div>
 <br>
 
-## 🛠️ Languages and Tools
+## 🛠️ Skills and Tools
 
-### Front-end :
+### Programming skills
 <div class="language" align="enter">
-    <img src="https://skillicons.dev/icons?i=html,css," /><br>
-</div>
-
-### Back-end :
-<div class="language" align="enter">
-    <img src="https://skillicons.dev/icons?i=python," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,python" /><br>
 </div>
 
 ### Tools :
@@ -82,4 +77,4 @@
 <br>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=thanks+for+visiting+!+💙&reversal=true&textBg=false&section=footer&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling"/>
-</p> 
+</p>
