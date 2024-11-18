@@ -14,13 +14,13 @@
 
 ## 🛠️ Skills and Tools
 
-### Programming skills
-<div class="language" align="enter">
+### Programming skills :
+<div>
     <img src="https://skillicons.dev/icons?i=html,css,python" /><br>
 </div>
 
 ### Tools :
-<div align="ceter">
+<div>
     <img src="https://skillicons.dev/icons?i=vscode,figma,markdown,github,git,ps,trello" /><br>
 </div>
 
