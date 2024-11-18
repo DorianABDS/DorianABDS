@@ -82,4 +82,4 @@
 <br>
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=thanks+for+visiting+!+💙&reversal=true&textBg=false&section=footer&fontSize=50&fontAlign=50&fontAlignY=50&animation=twinkling"/>
-</p>
+</p> 
