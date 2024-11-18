@@ -11,10 +11,6 @@
 - 📜 All of my projects are available at **[My Repository](https://github.com/DorianABDS?tab=repositories)**.
 
 <br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 🛠️ Skills and Tools
 
@@ -29,10 +25,6 @@
 </div>
 
 <br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 📊 My Stats
 
@@ -45,10 +37,6 @@
 <a href="https://github.com/DorianABDS/github-readme-stats"><img alt="DorianABDS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianABDS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 🤝 Connect With Me
 
@@ -60,12 +48,6 @@
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
-
-<br>
-<div>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 🌍 Views and Followers
 
