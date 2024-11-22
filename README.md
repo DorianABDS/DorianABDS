@@ -1,5 +1,5 @@
 <div class="hello" align="center">
-    <img src="https://s11.aconvert.com/convert/p3r68-cdx67/o24vq-wy5pj.jpg" alt="Typing SVG" />
+    <img src="https://s11.aconvert.com/convert/p3r68-cdx67/x3nuc-785um.jpg" alt="Typing SVG" />
 </div>
 
 ## 🙋 About Me
