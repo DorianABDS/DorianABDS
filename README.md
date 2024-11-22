@@ -1,5 +1,5 @@
 <div class="hello" align="center">
-    <img src="/src/img/Banner IN.jpg" alt="Typing SVG" />
+    <img src="https://s11.aconvert.com/convert/p3r68-cdx67/ieo8z-cfu4n.jpg" alt="Typing SVG" />
 </div>
 
 ## 🙋 About Me
