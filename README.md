@@ -14,7 +14,7 @@
 
 ### Programming skills :
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,python" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,python,sass" /><br>
 </div>
 
 ### Tools :
