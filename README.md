@@ -1,4 +1,4 @@
-<img src="https://s11.aconvert.com/convert/p3r68-cdx67/tw0b0-qiq8z.jpg" alt="Typing SVG" />
+<img src="/src/img/Banner Github black top.png" alt="Banner Github black top" />
 
 ## 🙋 About Me
 
@@ -55,4 +55,4 @@
 <a href="https://github.com/DorianABDS?tab=followers"><img src="https://img.shields.io/github/followers/DorianABDS?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
-<img src="https://s11.aconvert.com/convert/p3r68-cdx67/i7u89-tlyr6.jpg"/>
+<img src="/src/img/Banner Github black bottom.png" alt="Banner Github black bottom"/>
