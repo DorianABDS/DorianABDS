@@ -19,7 +19,7 @@
 
 ### Tools :
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,markdown,github,git,ps,trello" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma,markdown,github,git,ps,notion" /><br>
 </div>
 
 <br>
