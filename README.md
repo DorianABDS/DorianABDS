@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **[Bootstrap](https://github.com/DorianABDS/BootstrapWorkshop)**.
 
-- 📜 All of my projects are available at **[My Repository](https://github.com/DorianABDS/BootstrapWorkshop)**.
+- 📜 All of my projects are available at **[My Repository](https://github.com/DorianABDS?tab=repositories)**.
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ### Programming skills :
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,python,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,python,sass,bootstrap" /><br>
 </div>
 
 ### Tools :
