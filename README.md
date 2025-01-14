@@ -4,7 +4,7 @@
 
 - 🔎 I am currently a **1ᵉ year Bachelor student in Web Development** at the <a href="https://laplateforme.io/">**La Plateforme**<a> school. Being very **creative** and **optimistic**, I want to store as much as possible to be able to develop my **knowledge** and **learn more**.
 
-- 🌱 I’m currently learning **[Bootstrap](https://github.com/DorianABDS/BootstrapWorkshop)**.
+- 🌱 I’m currently learning **[PHP](https://github.com/DorianABDS/runtrackPHP)** and **[Bootstrap](https://github.com/DorianABDS/BootstrapWorkshop)**.
 
 - 📜 All of my projects are available at **[My Repository](https://github.com/DorianABDS?tab=repositories)**.
 
