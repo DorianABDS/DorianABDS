@@ -41,10 +41,10 @@
 <div>
     <a href="https://www.linkedin.com/in/dorian-abbadessa-873922337//" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbhCKmqlGkSNSSGgGRtRfVXfnXmTCgWSkvdRRQNzfvssQrMKRTjdqWZbtCZvWCbMJpZmXt">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbhCKmqlGkSNSSGgGRtRfVXfnXmTCgWSkvdRRQNzfvssQrMKRTjdqWZbtCZvWCbMJpZmXt">
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="https://www.behance.net/dorianabbadessa">
+        <img src="https://img.shields.io/badge/behance-darkblue?style=for-the-badge&logo=behance&logoColor=white" />
 </div>
 
 ## 🌍 Views and Followers
