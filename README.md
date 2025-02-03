@@ -1,5 +1,18 @@
 <img src="/src/img/Banner Github black top.png" alt="Banner Github black top" />
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/dorian-abbadessa/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff">
+    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZWPrjbGQjZxWJqBSnSWpZtBGtXPBZDVQkBgZfRfjHxJwZQgsbLcLCqQlqRlRzCdzxHRCg">
+        <img src="https://img.shields.io/badge/Gmail-D33E35?logo=Gmail&logoColor=fff">
+    <a href="https://www.behance.net/dorianabbadessa">
+        <img src="https://img.shields.io/badge/BeHance-053eff?logo=behance&logoColor=fff">
+    <a href="https://github.com/DorianABDS/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=DorianABDS">
+    </a>
+    <a href="https://github.com/DorianABDS?tab=followers"><img src="https://img.shields.io/github/followers/DorianABDS?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
+
 ## 🙋 About Me
 
 - 🔎 I am currently a **1ᵉ year Bachelor student in Web Development** at the <a href="https://laplateforme.io/">**La Plateforme**<a> school. Being very **creative** and **optimistic**, I want to store as much as possible to be able to develop my **knowledge** and **learn more**.
@@ -36,23 +49,14 @@
 
 <br>
 
-## 🤝 Connect With Me
+<!-- ## 🤝 Connect With Me, Views and Followers
 
-<div>
-    <a href="https://www.linkedin.com/in/dorian-abbadessa-873922337//" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbhCKmqlGkSNSSGgGRtRfVXfnXmTCgWSkvdRRQNzfvssQrMKRTjdqWZbtCZvWCbMJpZmXt">
-        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-    <a href="https://www.behance.net/dorianabbadessa">
-        <img src="https://img.shields.io/badge/behance-darkblue?style=for-the-badge&logo=behance&logoColor=white" />
-</div>
 
-## 🌍 Views and Followers
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/) [![Gmail](https://img.shields.io/badge/Gmail-D33E35?logo=Gmail&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/) [![BeHance](https://img.shields.io/badge/BeHance-053eff?logo=behance&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/)
 <a href="https://github.com/DorianABDS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=DorianABDS">
 </a>
-<a href="https://github.com/DorianABDS?tab=followers"><img src="https://img.shields.io/github/followers/DorianABDS?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/DorianABDS?tab=followers"><img src="https://img.shields.io/github/followers/DorianABDS?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 <br>
 <img src="/src/img/Banner Github black bottom.png" alt="Banner Github black bottom"/>
