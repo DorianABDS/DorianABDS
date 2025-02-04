@@ -47,16 +47,11 @@
 <a href="https://github.com/DorianABDS/github-readme-stats"><img alt="DorianABDS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DorianABDS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/DorianABDS/github-readme-stats"><img alt="DorianABDS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianABDS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<br>
-
-<!-- ## 🤝 Connect With Me, Views and Followers
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/) [![Gmail](https://img.shields.io/badge/Gmail-D33E35?logo=Gmail&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/) [![BeHance](https://img.shields.io/badge/BeHance-053eff?logo=behance&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/)
-<a href="https://github.com/DorianABDS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=DorianABDS">
-</a>
-<a href="https://github.com/DorianABDS?tab=followers"><img src="https://img.shields.io/github/followers/DorianABDS?label=Followers&style=social" alt="GitHub Badge"></a> -->
+## ☕ Support 💛
+<p><a href="https://buymeacoffee.com/dorianabds"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy a coffee from ABBADESSA Dorian" /></a>
 
 <br>
+<br>
+<br>
+
 <img src="/src/img/Banner Github black bottom.png" alt="Banner Github black bottom"/>
