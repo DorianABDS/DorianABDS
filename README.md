@@ -1,6 +1,8 @@
 <img src="/src/img/Banner Github black top.png" alt="Banner Github black top" />
 
 <div align="center">
+    <a href="https://abbadessa-dorian.fr/">
+        <img src="https://img.shields.io/badge/Portfolio-white?logo=linkedin&logoColor=fff">
     <a href="https://www.linkedin.com/in/dorian-abbadessa/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff">
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZWPrjbGQjZxWJqBSnSWpZtBGtXPBZDVQkBgZfRfjHxJwZQgsbLcLCqQlqRlRzCdzxHRCg">
