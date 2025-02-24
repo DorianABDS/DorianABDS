@@ -1,4 +1,4 @@
-<img src="/src/img/Banner Github black top.png" alt="Banner Github black top" />
+<img src="/src/img/banner_top_github.png" alt="Github top banner" />
 
 <div align="center">
     <a href="https://abbadessa-dorian.fr/">
@@ -56,4 +56,4 @@
 <br>
 <br>
 
-<img src="/src/img/Banner Github black bottom.png" alt="Banner Github black bottom"/>
+<img src="/src/img/banner_bottom_github.png" alt="Github bottom banner"/>
