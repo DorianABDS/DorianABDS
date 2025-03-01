@@ -19,7 +19,7 @@
 
 - 🔎 I am currently a **1ᵉ year Bachelor student in Web Development** at the <a href="https://laplateforme.io/">**La Plateforme**<a> school. Being very **creative** and **optimistic**, I want to store as much as possible to be able to develop my **knowledge** and **learn more**.
 
-- 🌱 I’m currently learning **[PHP](https://github.com/DorianABDS/runtrackPHP)**.
+- 🌱 I’m currently learning **[JavaScript](https://github.com/DorianABDS)** & **[Lua](https://github.com/DorianABDS)**.
 
 - 📜 All of my projects are available at **[My Repository](https://github.com/DorianABDS?tab=repositories)**.
 
@@ -29,7 +29,7 @@
 
 ### Programming skills :
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,python,php,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,python,php,mysql,lua" /><br>
 </div>
 
 ### Tools :
