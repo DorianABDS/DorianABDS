@@ -29,7 +29,7 @@
 
 ### Programming skills :
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass,bootstrap,python,php,mysql,lua" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass,bootstrap,tailwind,python,php,mysql,lua" /><br>
 </div>
 
 ### Tools :
