@@ -27,14 +27,19 @@
 
 ## 🛠️ Skills and Tools
 
-### Programming skills :
+### Front-end :
 <div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass,bootstrap,tailwind,python,php,mysql,lua" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass,bootstrap,tailwind" /><br>
+</div>
+
+### Back-end :
+<div>
+    <img src="https://skillicons.dev/icons?i=php,mysql,python,lua" /><br>
 </div>
 
 ### Tools :
 <div>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,markdown,github,git,ps,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,markdown,notion,ps" /><br>
 </div>
 
 <br>
