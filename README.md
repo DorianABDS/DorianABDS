@@ -39,7 +39,7 @@
 
 ### Tools :
 <div>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,npm,vscode,figma,markdown,notion,ps" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,npm,vite,vscode,figma,markdown,notion,ps" /><br>
 </div>
 
 <br>
