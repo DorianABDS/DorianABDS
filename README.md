@@ -34,7 +34,7 @@
 
 ### Back-end :
 <div>
-    <img src="https://skillicons.dev/icons?i=php,mysql,python,nodejs,lua,coffeescript" /><br>
+    <img src="https://skillicons.dev/icons?i=php,mysql,python,nodejs,java,lua,coffeescript" /><br>
 </div>
 
 ### Tools :
