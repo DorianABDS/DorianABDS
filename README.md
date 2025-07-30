@@ -17,7 +17,8 @@
 
 ## 🙋 About Me
 
-- 🔎 I am currently a **1ᵉ year Bachelor student in Web Development** at the <a href="https://laplateforme.io/">**La Plateforme**<a> school. Being very **creative** and **optimistic**, I want to store as much as possible to be able to develop my **knowledge** and **learn more**.
+- I am currently a **first-year Web Development student** at [**La Plateforme**](https://laplateforme.io/), enrolled as a **CDPI salaried trainee**. With a **creative mindset** and an **optimistic attitude**, I am eager to **expand my knowledge** and **continuously learn and grow** in the tech field.
+
 
 - 🌱 I’m currently learning **[Java](https://docs.oracle.com/en/java/)** && **[lapis](https://leafo.net/lapis/)** && **[MoonScript](https://github.com/ForgeLua/Hammer)**.
 
