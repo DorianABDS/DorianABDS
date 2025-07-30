@@ -19,7 +19,7 @@
 
 - 🔎 I am currently a **1ᵉ year Bachelor student in Web Development** at the <a href="https://laplateforme.io/">**La Plateforme**<a> school. Being very **creative** and **optimistic**, I want to store as much as possible to be able to develop my **knowledge** and **learn more**.
 
-- 🌱 I’m currently learning **[React.js](https://github.com/DorianABDS)** && **[MoonScript](https://github.com/ForgeLua/Hammer)**.
+- 🌱 I’m currently learning **[Java](https://docs.oracle.com/en/java/)** && **[lapis](https://leafo.net/lapis/)** && **[MoonScript](https://github.com/ForgeLua/Hammer)**.
 
 - 📜 All of my projects are available at **[My Repository](https://github.com/DorianABDS?tab=repositories)** & I am currently working on **[Hammer](https://github.com/ForgeLua/Hammer)**.
 
