@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a14&height=150&section=header&text=DorianABDS&fontSize=50&fontColor=f5f5fa&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=F5F5FA&center=true&vCenter=true&width=435&lines=Web+Developer+%26+Creative+Mind;Passionate+about+Frontend+and+Backend+Tech;First-year+Student+at+La+Plateforme" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=F5F5FA&center=true&vCenter=true&width=435&lines=Web+Developer+%26+Innovative +Mind;Passionate+about+Frontend+and+Backend;First-year+Student+at+La+Plateforme" alt="Typing SVG" />
   <br><br>
   <a href="https://www.linkedin.com/in/dorian-abbadessa/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn" />
