@@ -37,7 +37,7 @@
 
 <!-- Improved stat cards layout -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DorianABDS&show_icons=true&count_private=true&hide_border=true&title_color=f5f5fa&icon_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DorianABDS&show_icons=true&count_private=true&hide_border=true&title_color=f5f5fa&icon_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorianABDS&layout=compact&hide_border=true&title_color=f5f5fa&text_color=9d9da3&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
@@ -113,26 +113,38 @@
 <!-- Tools -->
 <div align="center">
   <h3>Tools & Environment</h3>
+
+  <!-- Informatique / Dev Tools -->
+  <h4>Dev Tools</h4>
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
   <a href="https://github.com/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <a href="https://gradle.org/" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
   </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+
+  <!-- Package Managers -->
   <a href="https://www.npmjs.com/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   </a>
   <a href="https://pnpm.io/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
   </a>
+
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   </a>
   <a href="https://vercel.com/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -140,28 +152,29 @@
   <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <a href="https://vitejs.dev/" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   </a>
+
+  <!-- Design / Création -->
+  <h4>Design & Documentation</h4>
   <a href="https://www.figma.com/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-  <a href="https://daringfireball.net/projects/markdown/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  </a>
-  <a href="https://www.notion.so/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   </a>
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  </a>
+
+  <!-- Communication / Collaboration -->
+  <h4>Communication</h4>
   <a href="https://discord.com/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://gradle.org/" target="_blank" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-  </a>
 </div>
+
 
 <!-- CONTRIBUTION GRAPH SECTION -->
 <div align="center">
