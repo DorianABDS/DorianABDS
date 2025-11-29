@@ -23,11 +23,38 @@
 
 <div align="center">
   <p>
-    First-year Web Development student at <a href="https://laplateforme.io/" target="_blank" style="color: #c9c9cf; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><strong>La Plateforme</strong></a>, enrolled as a <strong>CDPI salaried trainee</strong>.<br>
+    First-year Web Development student at <a href="https://laplateforme.io/" target="_blank">La Plateforme</a>, enrolled as a <strong>CDPI salaried trainee</strong>.<br>
     Creative mindset with an optimistic attitude, eager to expand knowledge and continuously learn and grow in tech.<br>
-    Currently learning <a href="https://docs.oracle.com/en/java/" target="_blank" style="color: #c9c9cf; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><strong>Java</strong></a>, <a href="http://www.lua.org/" target="_blank" style="color: #c9c9cf; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><strong>Lua</strong></a> (with <a href="https://moonscript.org/" target="_blank" style="color: #c9c9cf; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><strong>MoonScript</strong></a>), and the <a href="https://leafo.net/lapis/" target="_blank" style="color: #c9c9cf; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><strong>Lapis</strong></a> framework.<br>
-    Currently working on the <a href="https://github.com/Runic-Lab/NaxxramasCMS" target="_blank" style="color: #c9c9cf; text-decoration: none;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'"><strong>Naxxramas</strong></a> project.
+    Currently learning <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">JavaScript</a>
   </p>
+</div>
+
+<!-- ARTICLES SECTION -->
+<div align="center">
+  <h2>Articles</h2>
+  <p>I also write articles on <a href="https://medium.com/@DorianABDS">Medium</a> about Git.</p>
+
+  <table border="1">
+    <thead>
+      <tr>
+        <th>No.</th>
+        <th>Title</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>#1</td>
+        <td>Git Push : Les erreurs les plus fréquentes et comment les résoudre facilement</td>
+        <td><a href="https://medium.com/@DorianABDS/1-git-push-les-erreurs-les-plus-fr%C3%A9quentes-et-comment-les-r%C3%A9soudre-facilement-2a14d84882bf" target="_blank">View Article</a></td>
+      </tr>
+      <tr>
+        <td>#2</td>
+        <td>Soon</td>
+        <td>...</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <!-- GITHUB STATS SECTION -->
