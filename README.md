@@ -23,9 +23,7 @@
 
 <div align="center">
   <p>
-    First-year Web Development student at <a href="https://laplateforme.io/" target="_blank">La Plateforme</a>, enrolled as a <strong>CDPI salaried trainee</strong>.<br>
-    Creative mindset with an optimistic attitude, eager to expand knowledge and continuously learn and grow in tech.<br>
-    Currently learning <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">JavaScript</a>
+    A simple developer
   </p>
 </div>
 
